@@ -6,7 +6,7 @@
     </a>
 </p>
 
-Le projet Bingo est un petit jeu inventé pour s'amuser entre amis. Vous pouvez ainsi ajouter des actions futur à la grille, puis les valider ou non si ces actions se sont réalisés. #MakeForFun
+Le projet Bingo est un petit jeu inventé pour s'amuser entre amis. Vous pouvez ainsi ajouter des actions futur à la grille, puis les valider ou non si ces actions se sont réalisées. #MakeForFun
 
 Lien vers la version en ligne : https://mathieubesson-bingo.netlify.app  
 
